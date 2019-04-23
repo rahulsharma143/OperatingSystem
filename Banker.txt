@@ -2,7 +2,7 @@
 #include<stdio.h>
 int main()
 {
- int n;    //n number of process
+ int n;    
  int r;      // number of resources
  int i,j,k,cnt,cntt;
  int avail[10],p[10];
